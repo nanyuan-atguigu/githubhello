@@ -9,6 +9,7 @@ public class mainTest {
             },String.valueOf(i)).start();
 
         }
+        System.out.println("dev");
         System.out.println(5);
     }
 
